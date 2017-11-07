@@ -1,0 +1,2764 @@
+[
+	{
+		"objectSlug": "StartSword",
+		"itemName" : "Beginner's Sword",
+		"description" : "A sword made for beginner swordsmen.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Sword",
+		"rarity" : "Common",
+		"stats" : [
+			{
+				"baseValue": 4, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "StartBow",
+		"itemName" : "Beginner's Bow",
+		"description" : "A bow made for beginner archers.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier" : 0,
+		"weaponType": "Bow",
+		"rarity" : "Common",
+		"stats" : [
+			{
+				"baseValue": 4, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "StartWand",
+		"itemName" : "Beginner's Wand",
+		"description" : "A wand made for beginner mages.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Wand",
+		"rarity" : "Common",
+		"stats" : [
+			{
+				"baseValue": 4, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug" : "Potion_Health",
+		"itemName" : "Health Potion",
+		"description" : "A potion that heals for 5.",
+		"itemType" : "Consumable",
+		"actionName" : "Use",
+		"itemModifier": 0,
+		"weaponType": "Potion",
+		"rarity" : "Common"
+	},
+	{
+		"objectSlug": "Axe01",
+		"itemName" : "Hatchet",
+		"description" : "A simple axe used for cutting wood.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Axe",
+		"rarity" : "Common",
+		"stats" : [
+			{
+				"baseValue": 3, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Axe02",
+		"itemName" : "Iron Axe",
+		"description" : "An axe made out of iron.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Axe",
+		"rarity" : "Common",
+		"stats" : [
+			{
+				"baseValue": 4, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Axe03",
+		"itemName" : "Battle Axe",
+		"description" : "An axe made for battle.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Axe",
+		"rarity" : "Common",
+		"stats" : [
+			{
+				"baseValue": 5, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Axe04",
+		"itemName" : "Obsidian Meat Cleaver",
+		"description" : "Used by ogres to cleave human meat.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Axe",
+		"rarity" : "Common",
+		"stats" : [
+			{
+				"baseValue": 6, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Axe05",
+		"itemName" : "Giant's Razor",
+		"description" : "For when giants need the closest shave.™",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Axe",
+		"rarity" : "Common",
+		"stats" : [
+			{
+				"baseValue": 7, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Axe06",
+		"itemName" : "Sickle of Equality",
+		"description" : "Best paired with a hammer. This sickle is not affiliated with any real world idealogies.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Axe",
+		"rarity" : "Common",
+		"stats" : [
+			{
+				"baseValue": 8, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Axe06_a",
+		"itemName" : "Sickle of Wealth",
+		"description" : "It is said whomever wields this sickle will be granted wealth unimaginable.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Axe",
+		"rarity" : "Rare",
+		"stats" : [
+			{
+				"baseValue": 9, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Axe07",
+		"itemName" : "Iron Meat Cleaver",
+		"description" : "Used to cleave meat.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Axe",
+		"rarity" : "Rare",
+		"stats" : [
+			{
+				"baseValue": 10, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Axe08",
+		"itemName" : "Obsidian Battle Axe",
+		"description" : "Favoured by ogres.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Axe",
+		"rarity" : "Rare",
+		"stats" : [
+			{
+				"baseValue": 11, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Axe09",
+		"itemName" : "Pickaxe-axe",
+		"description" : "Used to pick ore out of veins and pick faces off of people.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Axe",
+		"rarity" : "Rare",
+		"stats" : [
+			{
+				"baseValue": 12, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Axe09_a",
+		"itemName" : "Frosted Pickaxe-axe",
+		"description" : "Used to pick ore out of veins and pick faces off of people.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Axe",
+		"rarity" : "Rare",
+		"stats" : [
+			{
+				"baseValue": 13, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Axe11",
+		"itemName" : "Captain Hook's Hook",
+		"description" : "Yaaaaaarrrrrrr!",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Axe",
+		"rarity" : "Epic",
+		"stats" : [
+			{
+				"baseValue": 14, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Axe12",
+		"itemName" : "Double-bladed Axe",
+		"description" : "What's better than one axe? Two! On the same handle!",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Axe",
+		"rarity" : "Epic",
+		"stats" : [
+			{
+				"baseValue": 15, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Axe17",
+		"itemName" : "Adamant Axe",
+		"description" : "Requires at least 31 woodcutting to use.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Axe",
+		"rarity" : "Epic",
+		"stats" : [
+			{
+				"baseValue": 16, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Axe14",
+		"itemName" : "The Moon Man",
+		"description" : "Moon man, Moon man, can't you see.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Axe",
+		"rarity" : "Epic",
+		"stats" : [
+			{
+				"baseValue": 17, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Axe10",
+		"itemName" : "Battle Axe of Emil the Ghost Viking",
+		"description" : "It is said the emit a loud \"REEEE\" sound when swung.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Axe",
+		"rarity" : "Epic",
+		"stats" : [
+			{
+				"baseValue": 18, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Axe13",
+		"itemName" : "Bloodroar",
+		"description" : "This axe has sown terror across hundreds of battlefields.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Axe",
+		"rarity" : "Legendary",
+		"stats" : [
+			{
+				"baseValue": 19, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Axe15",
+		"itemName" : "Lionheart",
+		"description" : "Disclaimer: This weapon is not actually for the lionhearted.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Axe",
+		"rarity" : "Legendary",
+		"stats" : [
+			{
+				"baseValue": 20, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Axe16",
+		"itemName" : "Eagle's Wings",
+		"description" : "\"And he will raise you up on eagle's wings, bear you on the breath of dawn, make you to shine like the sun, and hold you in the palm of his hand.\"",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Axe",
+		"rarity" : "Legendary",
+		"stats" : [
+			{
+				"baseValue": 21, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Axe16_a",
+		"itemName" : "Phoenix Down",
+		"description" : "It is said to give the wielder immortality for as long as they hold it.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Axe",
+		"rarity" : "Legendary",
+		"stats" : [
+			{
+				"baseValue": 22, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Bow03",
+		"itemName" : "Oak Longbow",
+		"description" : "Requires at least 5 Ranged to wield, or 25 Fletching to create.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Bow",
+		"rarity" : "Common",
+		"stats" : [
+			{
+				"baseValue": 5, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Bow05",
+		"itemName" : "Maple Longbow",
+		"description" : "Requires at least 30 Ranged to wield, or 55 Fletching to create.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Bow",
+		"rarity" : "Common",
+		"stats" : [
+			{
+				"baseValue": 7, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Bow06",
+		"itemName" : "Avarosa's Frost Bow",
+		"description" : "\"One tribe, one people, one Freljord.\"",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Bow",
+		"rarity" : "Common",
+		"stats" : [
+			{
+				"baseValue": 8, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Bow07",
+		"itemName" : "Armoured Longbow",
+		"description" : "Bows need armour too you know.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Bow",
+		"rarity" : "Rare",
+		"stats" : [
+			{
+				"baseValue": 9, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Bow08",
+		"itemName" : "Bambow",
+		"description" : "Bamboo + Bow = Bambow",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Bow",
+		"rarity" : "Rare",
+		"stats" : [
+			{
+				"baseValue": 10, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Bow09",
+		"itemName" : "Cobra Commander",
+		"description" : "It is said the wielder becomes the unquestionable ruler of all cobras.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Bow",
+		"rarity" : "Rare",
+		"stats" : [
+			{
+				"baseValue": 11, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Bow09_b",
+		"itemName" : "Sneaky Snake",
+		"description" : "Why'd it have to be snakes?",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Bow",
+		"rarity" : "Rare",
+		"stats" : [
+			{
+				"baseValue": 12, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Bow10",
+		"itemName" : "Spiked Bow",
+		"description" : "Spikes make everything look cooler, right?",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Bow",
+		"rarity" : "Rare",
+		"stats" : [
+			{
+				"baseValue": 13, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Bow11_a",
+		"itemName" : "Yew Shortbow",
+		"description" : "Requires at least 40 Ranged to wield, and 65 Fletching to create.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Bow",
+		"rarity" : "Epic",
+		"stats" : [
+			{
+				"baseValue": 14, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Bow12",
+		"itemName" : "Bonebow",
+		"description" : "A bow made of bones? Sick.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Bow",
+		"rarity" : "Epic",
+		"stats" : [
+			{
+				"baseValue": 16, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Bow12_b",
+		"itemName" : "Darkened Bonebow",
+		"description" : "A bow made of bones? Sick.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Bow",
+		"rarity" : "Epic",
+		"stats" : [
+			{
+				"baseValue": 18, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Bow13",
+		"itemName" : "Black Cx Bow",
+		"description" : "TriHard My bow now TriHard.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Bow",
+		"rarity" : "Legendary",
+		"stats" : [
+			{
+				"baseValue": 20, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Bow13_a",
+		"itemName" : "Golden \"Cross\" bow",
+		"description" : "Disclaimer: Not actually a crossbow.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Bow",
+		"rarity" : "Legendary",
+		"stats" : [
+			{
+				"baseValue": 25, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Bow16",
+		"itemName" : "Ribcage",
+		"description" : "Ew, what is wrong with you?",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Bow",
+		"rarity" : "Legendary",
+		"stats" : [
+			{
+				"baseValue": 27, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Bow17",
+		"itemName" : "Phoenix Ashes",
+		"description" : "\"In due time to phoenix will rise again from his ashes.\"",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Bow",
+		"rarity" : "Legendary",
+		"stats" : [
+			{
+				"baseValue": 30, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Dagger01",
+		"itemName" : "Butter Knife",
+		"description" : "Used to apply butter to various types of food.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Dagger",
+		"rarity" : "Common",
+		"stats" : [
+			{
+				"baseValue": 5, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Dagger07",
+		"itemName" : "Curved Dagger",
+		"description" : "Curvature doesn't matter.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Dagger",
+		"rarity" : "Common",
+		"stats" : [
+			{
+				"baseValue": 6, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Dagger08",
+		"itemName" : "The Viper",
+		"description" : "\"It's got a lot of shlime to dish out.\"",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Dagger",
+		"rarity" : "Common",
+		"stats" : [
+			{
+				"baseValue": 6, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Dagger09",
+		"itemName" : "A Kunai Matata",
+		"description" : "What a wonderful blade.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Dagger",
+		"rarity" : "Common",
+		"stats" : [
+			{
+				"baseValue": 7, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Dagger11",
+		"itemName" : "Hollowed Blade",
+		"description" : "Happy Holloween.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Dagger",
+		"rarity" : "Rare",
+		"stats" : [
+			{
+				"baseValue": 8, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Dagger12",
+		"itemName" : "The Devil's Letter Opener",
+		"description" : "The Devil gets mail too you know.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Dagger",
+		"rarity" : "Rare",
+		"stats" : [
+			{
+				"baseValue": 9, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Dagger14",
+		"itemName" : "Justa Dagger",
+		"description" : "Disclaimer: Not actually just a dagger.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Dagger",
+		"rarity" : "Rare",
+		"stats" : [
+			{
+				"baseValue": 10, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Dagger15",
+		"itemName" : "Dragon Tooth",
+		"description" : "Stolen from the set of Game of Bones. Please don't sue.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Dagger",
+		"rarity" : "Rare",
+		"stats" : [
+			{
+				"baseValue": 11, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Dagger18",
+		"itemName" : "Maple Leaf",
+		"description" : "Made in Canada.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Dagger",
+		"rarity" : "Epic",
+		"stats" : [
+			{
+				"baseValue": 12, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Dagger20",
+		"itemName" : "Pa Ul's Sacrificial Dagger",
+		"description" : "It didn't belong to Pa Ul, it was \"for\" Pa Ul.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Dagger",
+		"rarity" : "Epic",
+		"stats" : [
+			{
+				"baseValue": 13, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Dagger21",
+		"itemName" : "Glacial Shard",
+		"description" : "A shard of ice. Nothing more.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Dagger",
+		"rarity" : "Epic",
+		"stats" : [
+			{
+				"baseValue": 14, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Dagger21_a",
+		"itemName" : "Volcanic Glass",
+		"description" : "Isn't that just obsidian?",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Dagger",
+		"rarity" : "Epic",
+		"stats" : [
+			{
+				"baseValue": 15, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Dagger21_b",
+		"itemName" : "Broken Church Window",
+		"description" : "Shard of broken church window.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Dagger",
+		"rarity" : "Epic",
+		"stats" : [
+			{
+				"baseValue": 16, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Dagger23",
+		"itemName" : "Revolvo Blade",
+		"description" : "Trying and failing to look like a gun.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Dagger",
+		"rarity" : "Legendary",
+		"stats" : [
+			{
+				"baseValue": 18, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Dagger25",
+		"itemName" : "Red Butler",
+		"description" : "\"Frankly my dear, I don't give a damn.\"",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Dagger",
+		"rarity" : "Legendary",
+		"stats" : [
+			{
+				"baseValue": 20, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Dagger25_a",
+		"itemName" : "Greeno",
+		"description" : "Greeno stabbed first.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Dagger",
+		"rarity" : "Legendary",
+		"stats" : [
+			{
+				"baseValue": 23, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Dagger25_b",
+		"itemName" : "White Eyes Blue Dagger",
+		"description" : "Fair use, fair use, fair use.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Dagger",
+		"rarity" : "Legendary",
+		"stats" : [
+			{
+				"baseValue": 26, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Dagger26",
+		"itemName" : "Fork",
+		"description" : "It really forks you up.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Dagger",
+		"rarity" : "Legendary",
+		"stats" : [
+			{
+				"baseValue": 29, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Mace01",
+		"itemName" : "Night Club",
+		"description" : "It's mad craic",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Mace",
+		"rarity" : "Common",
+		"stats" : [
+			{
+				"baseValue": 4, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Mace02",
+		"itemName" : "Spiked Club",
+		"description" : "I got spiked at the club!",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Mace",
+		"rarity" : "Common",
+		"stats" : [
+			{
+				"baseValue": 5, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Mace05",
+		"itemName" : "Iron Mace",
+		"description" : "Don't mace me bro!",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Mace",
+		"rarity" : "Common",
+		"stats" : [
+			{
+				"baseValue": 6, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Mace06",
+		"itemName" : "Guilty",
+		"description" : "I find the defendant GUILTY!",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Mace",
+		"rarity" : "Common",
+		"stats" : [
+			{
+				"baseValue": 7, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Mace07",
+		"itemName" : "Backscratcher",
+		"description" : "You scratch my back, I scratch yours.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Mace",
+		"rarity" : "Common",
+		"stats" : [
+			{
+				"baseValue": 8, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Mace09",
+		"itemName" : "Lamp Post",
+		"description" : "Lights Out.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Mace",
+		"rarity" : "Rare",
+		"stats" : [
+			{
+				"baseValue": 9, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Mace10",
+		"itemName" : "The Jackhammer",
+		"description" : "Jack's jackhammer.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Mace",
+		"rarity" : "Rare",
+		"stats" : [
+			{
+				"baseValue": 10, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Mace11",
+		"itemName" : "Skelly's Bone Club",
+		"description" : "Dem bones, dem bones need...",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Mace",
+		"rarity" : "Rare",
+		"stats" : [
+			{
+				"baseValue": 11, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Mace12_a",
+		"itemName" : "Dilmace",
+		"description" : "Red like his fury.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Mace",
+		"rarity" : "Rare",
+		"stats" : [
+			{
+				"baseValue": 13, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Mace14",
+		"itemName" : "King's Scepter",
+		"description" : "He's no king of mine!",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Mace",
+		"rarity" : "Epic",
+		"stats" : [
+			{
+				"baseValue": 15, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Mace17",
+		"itemName" : "Blacksteel Cowbell",
+		"description" : "Mooooooooooooooooooooooo....",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Mace",
+		"rarity" : "Epic",
+		"stats" : [
+			{
+				"baseValue": 17, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Mace18",
+		"itemName" : "Skull On A Stick",
+		"description" : "Name says it all.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Mace",
+		"rarity" : "Legendary",
+		"stats" : [
+			{
+				"baseValue": 20, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Mace19",
+		"itemName" : "Tenderiser",
+		"description" : "Tenderises your meat, whoever it may be.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Mace",
+		"rarity" : "Legendary",
+		"stats" : [
+			{
+				"baseValue": 23, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Mace20",
+		"itemName" : "Plumbus",
+		"description" : "Just a regular ol' plumbus.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Mace",
+		"rarity" : "Legendary",
+		"stats" : [
+			{
+				"baseValue": 25, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Mace21",
+		"itemName" : "Volcanic Hammer",
+		"description" : "Forged in the fires of a volcano.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Mace",
+		"rarity" : "Legendary",
+		"stats" : [
+			{
+				"baseValue": 28, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Polearm01",
+		"itemName" : "Pitch Fork",
+		"description" : "Perfect for a mob.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Polearm",
+		"rarity" : "Common",
+		"stats" : [
+			{
+				"baseValue": 8, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Polearm04",
+		"itemName" : "Iron Spear",
+		"description" : "A basic iron spear.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Polearm",
+		"rarity" : "Common",
+		"stats" : [
+			{
+				"baseValue": 10, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Polearm05",
+		"itemName" : "Fishing Harpoon",
+		"description" : "Used by fishermen.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Polearm",
+		"rarity" : "Common",
+		"stats" : [
+			{
+				"baseValue": 11, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Polearm06",
+		"itemName" : "Halberd",
+		"description" : "Used by the town guard.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Polearm",
+		"rarity" : "Common",
+		"stats" : [
+			{
+				"baseValue": 12, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Polearm07",
+		"itemName" : "Sword On A Stick",
+		"description" : "Name says it all.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Polearm",
+		"rarity" : "Common",
+		"stats" : [
+			{
+				"baseValue": 13, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Polearm09",
+		"itemName" : "Tribal Spear",
+		"description" : "Used by tribesmen.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Polearm",
+		"rarity" : "Common",
+		"stats" : [
+			{
+				"baseValue": 13, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Polearm10",
+		"itemName" : "Ancient Polearm",
+		"description" : "Used by people of ancient times.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Polearm",
+		"rarity" : "Rare",
+		"stats" : [
+			{
+				"baseValue": 15, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Polearm11",
+		"itemName" : "Shovel?",
+		"description" : "What is this?",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Polearm",
+		"rarity" : "Rare",
+		"stats" : [
+			{
+				"baseValue": 16, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Polearm12",
+		"itemName" : "Axe Spear",
+		"description" : "Is it an axe or is it a spear? It's neither! It's an axe spear!",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Polearm",
+		"rarity" : "Rare",
+		"stats" : [
+			{
+				"baseValue": 17, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Polearm13",
+		"itemName" : "Barbara's Razor",
+		"description" : "Barbara was a hairy woman with a sharp blade.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Polearm",
+		"rarity" : "Epic",
+		"stats" : [
+			{
+				"baseValue": 19, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Polearm14",
+		"itemName" : "Golden Trident",
+		"description" : "Once held by the great ruler of the seas.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Polearm",
+		"rarity" : "Epic",
+		"stats" : [
+			{
+				"baseValue": 20, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Polearm18",
+		"itemName" : "The Night King",
+		"description" : "Can down an airborne dragon in one hit.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Polearm",
+		"rarity" : "Epic",
+		"stats" : [
+			{
+				"baseValue": 23, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Polearm19",
+		"itemName" : "Dragoon",
+		"description" : "It is said to allow the wielder jump to great heights.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Polearm",
+		"rarity" : "Epic",
+		"stats" : [
+			{
+				"baseValue": 25, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Polearm20",
+		"itemName" : "Regal Halberd",
+		"description" : "Wielded by the king's guard.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Polearm",
+		"rarity" : "Legendary",
+		"stats" : [
+			{
+				"baseValue": 27, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Polearm21",
+		"itemName" : "Golden Lance",
+		"description" : "Wielded by the best of the best lancers.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Polearm",
+		"rarity" : "Legendary",
+		"stats" : [
+			{
+				"baseValue": 29, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Polearm22",
+		"itemName" : "Giant's Bottle Opener",
+		"description" : "Giants need to open bottles too you know.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Polearm",
+		"rarity" : "Legendary",
+		"stats" : [
+			{
+				"baseValue": 31, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Polearm24",
+		"itemName" : "Demon Trident",
+		"description" : "It reads \"C..th..u..lu\"",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Polearm",
+		"rarity" : "Legendary",
+		"stats" : [
+			{
+				"baseValue": 34, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Staff01",
+		"itemName" : "Walking Stick",
+		"description" : "Helps people walk.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Staff",
+		"rarity" : "Common",
+		"stats" : [
+			{
+				"baseValue": 5, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Staff03",
+		"itemName" : "Blue Crystal Staff",
+		"description" : "A staff that sports a shiny blue crystal on top.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Staff",
+		"rarity" : "Common",
+		"stats" : [
+			{
+				"baseValue": 6, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Staff03_a",
+		"itemName" : "Red Crystal Staff",
+		"description" : "A staff that sports a shiny red crystal on top.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Staff",
+		"rarity" : "Common",
+		"stats" : [
+			{
+				"baseValue": 7, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Staff03_b",
+		"itemName" : "Purple Crystal Staff",
+		"description" : "A staff that sports a shiny purple crystal on top.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Staff",
+		"rarity" : "Common",
+		"stats" : [
+			{
+				"baseValue": 8, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Staff04",
+		"itemName" : "Elder Staff",
+		"description" : "A staff once wielded by a great elder.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Staff",
+		"rarity" : "Common",
+		"stats" : [
+			{
+				"baseValue": 9, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Staff05",
+		"itemName" : "White Scepter",
+		"description" : "A scepter that sports a white orb on top.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Staff",
+		"rarity" : "Common",
+		"stats" : [
+			{
+				"baseValue": 10, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Staff06_a",
+		"itemName" : "Golden Eagle Staff",
+		"description" : "Disclaimer: Does not actually fire golden eagles.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Staff",
+		"rarity" : "Rare",
+		"stats" : [
+			{
+				"baseValue": 11, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Staff07",
+		"itemName" : "Goathead Staff",
+		"description" : "A staff used by cultists.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Staff",
+		"rarity" : "Rare",
+		"stats" : [
+			{
+				"baseValue": 12, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Staff08",
+		"itemName" : "Druidic Staff",
+		"description" : "Commonly used by druids for nature magic.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Staff",
+		"rarity" : "Rare",
+		"stats" : [
+			{
+				"baseValue": 12, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Staff09",
+		"itemName" : "Gilded Red Staff",
+		"description" : "Was trimmed for free for 10k gold.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Staff",
+		"rarity" : "Rare",
+		"stats" : [
+			{
+				"baseValue": 13, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Staff10",
+		"itemName" : "Arcanocrystal-tipped Staff",
+		"description" : "Wow I thought I'd never get one!",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Staff",
+		"rarity" : "Epic",
+		"stats" : [
+			{
+				"baseValue": 14, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Staff11",
+		"itemName" : "Rintell's Greatstaff Of Healing",
+		"description" : "HE WAS BALANCE!",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Staff",
+		"rarity" : "Epic",
+		"stats" : [
+			{
+				"baseValue": 16, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Staff12",
+		"itemName" : "Sneaky Snakey Staff",
+		"description" : "Used by St. Patrick to rid the land of snakes.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Staff",
+		"rarity" : "Epic",
+		"stats" : [
+			{
+				"baseValue": 17, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Staff14",
+		"itemName" : "Equestrian Equinox, Greatstaff Of Horses",
+		"description" : "Horses use magic too!",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Staff",
+		"rarity" : "Epic",
+		"stats" : [
+			{
+				"baseValue": 18, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Staff16",
+		"itemName" : "Greatfeather Staff",
+		"description" : "\"Shadows gather when the raven swallows the day.\"",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Staff",
+		"rarity" : "Legendary",
+		"stats" : [
+			{
+				"baseValue": 20, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Staff18",
+		"itemName" : "Deathbringer",
+		"description" : "Does what it says on the tin.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Staff",
+		"rarity" : "Legendary",
+		"stats" : [
+			{
+				"baseValue": 22, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Staff18_a",
+		"itemName" : "Golden Skull Staff",
+		"description" : "Sells for a lot on the black market.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Staff",
+		"rarity" : "Legendary",
+		"stats" : [
+			{
+				"baseValue": 24, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Sword02",
+		"itemName" : "Bandaged Sword",
+		"description" : "What is broken can be reforged.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Sword",
+		"rarity" : "Common",
+		"stats" : [
+			{
+				"baseValue": 5, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Sword04",
+		"itemName" : "Curved Sword",
+		"description" : "Did you hear does guys across the border have curved swords?",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Sword",
+		"rarity" : "Common",
+		"stats" : [
+			{
+				"baseValue": 6, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Sword05",
+		"itemName" : "Pirate's Cutlass",
+		"description" : "Yaaaaaarrrrrrr",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Sword",
+		"rarity" : "Common",
+		"stats" : [
+			{
+				"baseValue": 7, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Sword08",
+		"itemName" : "Valaryian Steel",
+		"description" : "Proficient at killing undead monsters.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Sword",
+		"rarity" : "Common",
+		"stats" : [
+			{
+				"baseValue": 8, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Sword09_a",
+		"itemName" : "Bee Lade",
+		"description" : "Everytime you say \"bee\" it does more damage.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Sword",
+		"rarity" : "Common",
+		"stats" : [
+			{
+				"baseValue": 9, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Sword11",
+		"itemName" : "Rapier",
+		"description" : "No it's not pronounced like that.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Sword",
+		"rarity" : "Rare",
+		"stats" : [
+			{
+				"baseValue": 10, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Sword12",
+		"itemName" : "Sword of a Thousand Truths",
+		"description" : "Foretold by Salzman",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Sword",
+		"rarity" : "Rare",
+		"stats" : [
+			{
+				"baseValue": 10, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Sword16",
+		"itemName" : "Samurai Katana",
+		"description" : "Time flies like an arrow, fruit flies like banana.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Sword",
+		"rarity" : "Rare",
+		"stats" : [
+			{
+				"baseValue": 11, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Sword16_c",
+		"itemName" : "Souldrinker",
+		"description" : "Believe it or not this is a paladin weapon.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Sword",
+		"rarity" : "Rare",
+		"stats" : [
+			{
+				"baseValue": 12, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Sword17",
+		"itemName" : "Blade of the Exiled",
+		"description" : "Learn from your mistakes.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Sword",
+		"rarity" : "Epic",
+		"stats" : [
+			{
+				"baseValue": 14, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Sword26",
+		"itemName" : "Royal Sword",
+		"description" : "Gilded sword.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Sword",
+		"rarity" : "Epic",
+		"stats" : [
+			{
+				"baseValue": 16, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Sword26_a",
+		"itemName" : "Chaos Emerald",
+		"description" : "Gotta go fast.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Sword",
+		"rarity" : "Epic",
+		"stats" : [
+			{
+				"baseValue": 18, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Sword29",
+		"itemName" : "Golden Rapier",
+		"description" : "No it's not pronounced like that.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Sword",
+		"rarity" : "Epic",
+		"stats" : [
+			{
+				"baseValue": 20, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Sword21",
+		"itemName" : "Icicle Blade",
+		"description" : "Cold to the touch.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Sword",
+		"rarity" : "Legendary",
+		"stats" : [
+			{
+				"baseValue": 22, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Sword22",
+		"itemName" : "Vampiric Shard",
+		"description" : "A blade made of frozen blood.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Sword",
+		"rarity" : "Legendary",
+		"stats" : [
+			{
+				"baseValue": 24, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Sword23",
+		"itemName" : "Scaleblade",
+		"description" : "A sword made of dragon scales.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Sword",
+		"rarity" : "Legendary",
+		"stats" : [
+			{
+				"baseValue": 26, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Sword31",
+		"itemName" : "Demon's Heart",
+		"description" : "A sword used by demons.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Sword",
+		"rarity" : "Legendary",
+		"stats" : [
+			{
+				"baseValue": 28, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "TH_Axe01",
+		"itemName" : "Mini Halberd",
+		"description" : "Not actually a halberd.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Two-Handed Axe",
+		"rarity" : "Common",
+		"stats" : [
+			{
+				"baseValue": 6, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "TH_Axe02",
+		"itemName" : "Double-Sided Axe",
+		"description" : "Double-Sided for double the damage.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Two-Handed Axe",
+		"rarity" : "Common",
+		"stats" : [
+			{
+				"baseValue": 8, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "TH_Axe03_a",
+		"itemName" : "Frosty Axe",
+		"description" : "Axe made of ice.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Two-Handed Axe",
+		"rarity" : "Common",
+		"stats" : [
+			{
+				"baseValue": 10, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "TH_Axe05_a",
+		"itemName" : "Gorish Howl",
+		"description" : "Hell screams upon you.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Two-Handed Axe",
+		"rarity" : "Rare",
+		"stats" : [
+			{
+				"baseValue": 13, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "TH_Axe06",
+		"itemName" : "Bloodrune",
+		"description" : "An axe covered in Satanic runes.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Two-Handed Axe",
+		"rarity" : "Rare",
+		"stats" : [
+			{
+				"baseValue": 16, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "TH_Axe08",
+		"itemName" : "Frosted Runeaxe",
+		"description" : "An axe covered in Satanic runes.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Two-Handed Axe",
+		"rarity" : "Epic",
+		"stats" : [
+			{
+				"baseValue": 18, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "TH_Axe09",
+		"itemName" : "Bloddied Runeaxe",
+		"description" : "An axe covered in Satanic runes.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Two-Handed Axe",
+		"rarity" : "Epic",
+		"stats" : [
+			{
+				"baseValue": 20, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "TH_Axe10",
+		"itemName" : "Arcanite Reaper",
+		"description" : "An axe enchanted with arcane energies.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Two-Handed Axe",
+		"rarity" : "Epic",
+		"stats" : [
+			{
+				"baseValue": 23, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "TH_Axe10_a",
+		"itemName" : "Snakebite",
+		"description" : "Sssss...",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Two-Handed Axe",
+		"rarity" : "Epic",
+		"stats" : [
+			{
+				"baseValue": 26, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "TH_Axe11",
+		"itemName" : "Phoenix Edge",
+		"description" : "Blessed by an ancient pheonix.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Two-Handed Axe",
+		"rarity" : "Legendary",
+		"stats" : [
+			{
+				"baseValue": 28, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "TH_Axe13",
+		"itemName" : "Venom",
+		"description" : "Forges in a pool of venom.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Two-Handed Axe",
+		"rarity" : "Legendary",
+		"stats" : [
+			{
+				"baseValue": 30, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "TH_Axe13",
+		"itemName" : "Frosted Venom",
+		"description" : "Forges in a pool of frosted venom.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Two-Handed Axe",
+		"rarity" : "Legendary",
+		"stats" : [
+			{
+				"baseValue": 32, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "TH_Mace01",
+		"itemName" : "Granite Maul",
+		"description" : "A maul made of granite.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Two-Handed Mace",
+		"rarity" : "Common",
+		"stats" : [
+			{
+				"baseValue": 5, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "TH_Mace02",
+		"itemName" : "Judgment",
+		"description" : "Judgmento desu no.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Two-Handed Mace",
+		"rarity" : "Common",
+		"stats" : [
+			{
+				"baseValue": 7, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "TH_Mace04",
+		"itemName" : "Spiked Ogre Club",
+		"description" : "An ogre's spiked club.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Two-Handed Mace",
+		"rarity" : "Common",
+		"stats" : [
+			{
+				"baseValue": 9, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "TH_Mace07",
+		"itemName" : "Ding Dong",
+		"description" : "Ooh you touch my tralala.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Two-Handed Mace",
+		"rarity" : "Common",
+		"stats" : [
+			{
+				"baseValue": 11, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "TH_Mace08",
+		"itemName" : "Morning Glory Star",
+		"description" : "PG13",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Two-Handed Mace",
+		"rarity" : "Rare",
+		"stats" : [
+			{
+				"baseValue": 13, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "TH_Mace09",
+		"itemName" : "The Kaiser",
+		"description" : "Used by the great kaiser-general Dave Scorch.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Two-Handed Mace",
+		"rarity" : "Rare",
+		"stats" : [
+			{
+				"baseValue": 15, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "TH_Mace11",
+		"itemName" : "Spiked Tiki Torch",
+		"description" : "Not affliated with riots.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Two-Handed Mace",
+		"rarity" : "Epic",
+		"stats" : [
+			{
+				"baseValue": 17, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "TH_Mace12",
+		"itemName" : "Gilded Axe-Mace",
+		"description" : "Part axe, part mace.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Two-Handed Mace",
+		"rarity" : "Epic",
+		"stats" : [
+			{
+				"baseValue": 19, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "TH_Mace14_a",
+		"itemName" : "Golden Hand of Magmaros",
+		"description" : "Too soon!",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Two-Handed Mace",
+		"rarity" : "Epic",
+		"stats" : [
+			{
+				"baseValue": 21, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Warhammer",
+		"itemName" : "Woorihammer",
+		"description" : "Oori's woorihammer.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Two-Handed Mace",
+		"rarity" : "Epic",
+		"stats" : [
+			{
+				"baseValue": 23, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "TH_Mace16",
+		"itemName" : "Ramhammer",
+		"description" : "Two ram skulls made into a hammer.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Two-Handed Mace",
+		"rarity" : "Legendary",
+		"stats" : [
+			{
+				"baseValue": 25, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "TH_Mace18",
+		"itemName" : "Obsidian Shell",
+		"description" : "Not as good as a blue shell.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Two-Handed Mace",
+		"rarity" : "Legendary",
+		"stats" : [
+			{
+				"baseValue": 28, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "TH_Mace17",
+		"itemName" : "Banhammer",
+		"description" : "BANNED.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Two-Handed Mace",
+		"rarity" : "Legendary",
+		"stats" : [
+			{
+				"baseValue": 27, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "TH_Sword02",
+		"itemName" : "Longclaw",
+		"description" : "Once belonged to a house of bears.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Two-Handed Sword",
+		"rarity" : "Common",
+		"stats" : [
+			{
+				"baseValue": 7, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "TH_Sword06",
+		"itemName" : "Steel Gladius",
+		"description" : "Not steal, STEEL.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Two-Handed Sword",
+		"rarity" : "Common",
+		"stats" : [
+			{
+				"baseValue": 9, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "TH_Sword07",
+		"itemName" : "Lightning Blade",
+		"description" : "Once owned by the lightning lord.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Two-Handed Sword",
+		"rarity" : "Common",
+		"stats" : [
+			{
+				"baseValue": 11, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "TH_Sword09",
+		"itemName" : "Obsidian Greatsword",
+		"description" : "A greatsword made of obsidian.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Two-Handed Sword",
+		"rarity" : "Rare",
+		"stats" : [
+			{
+				"baseValue": 15, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "TH_Sword12",
+		"itemName" : "Mithril Greatsword",
+		"description" : "From the land of green.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Two-Handed Sword",
+		"rarity" : "Rare",
+		"stats" : [
+			{
+				"baseValue": 17, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "TH_Sword12_a",
+		"itemName" : "Exorcism",
+		"description" : "Used to exorcise demons.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Two-Handed Sword",
+		"rarity" : "Rare",
+		"stats" : [
+			{
+				"baseValue": 20, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "TH_Sword12_b",
+		"itemName" : "Frostblade of Na'Then",
+		"description" : "Na'Then was once a great frost knight, before the nerfs came...",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Two-Handed Sword",
+		"rarity" : "Epic",
+		"stats" : [
+			{
+				"baseValue": 23, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "TH_Sword14_a",
+		"itemName" : "Eagleclaw",
+		"description" : "Not an actual eagleclaw.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Two-Handed Sword",
+		"rarity" : "Epic",
+		"stats" : [
+			{
+				"baseValue": 25, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "TH_Sword16",
+		"itemName" : "Golden Cutlass",
+		"description" : "Used by the richest of pirates.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Two-Handed Sword",
+		"rarity" : "Epic",
+		"stats" : [
+			{
+				"baseValue": 28, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "TH_Sword21",
+		"itemName" : "Crow",
+		"description" : "Greatsword of Castle Black.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Two-Handed Sword",
+		"rarity" : "Epic",
+		"stats" : [
+			{
+				"baseValue": 30, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "TH_Sword15",
+		"itemName" : "Buster Blader",
+		"description" : "Issued by S.O.L.D.I.E.R.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Two-Handed Sword",
+		"rarity" : "Legendary",
+		"stats" : [
+			{
+				"baseValue": 33, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "TH_Sword19",
+		"itemName" : "Avalanche",
+		"description" : "Don't make too much noises or the avalanche will be your end.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Two-Handed Sword",
+		"rarity" : "Legendary",
+		"stats" : [
+			{
+				"baseValue": 34, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "TH_Sword20",
+		"itemName" : "Golden Compass",
+		"description" : "Better than the movie.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Two-Handed Sword",
+		"rarity" : "Legendary",
+		"stats" : [
+			{
+				"baseValue": 36, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "RuneBlade",
+		"itemName" : "Icy Lament",
+		"description" : "\"Whomsoever takes up this blade shall wield power eternal. Just as the blade rends flesh, so must power scar the spirit.\"",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Two-Handed Sword",
+		"rarity" : "Legendary",
+		"stats" : [
+			{
+				"baseValue": 35, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Wand01",
+		"itemName" : "Wizard's Apprentice",
+		"description" : "\"One day I'll be just like you.\"",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Wand",
+		"rarity" : "Common",
+		"stats" : [
+			{
+				"baseValue": 6, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Wand03",
+		"itemName" : "Magic Cane",
+		"description" : "Doubles as a wand and a walking aid.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Wand",
+		"rarity" : "Common",
+		"stats" : [
+			{
+				"baseValue": 8, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Wand04",
+		"itemName" : "Milky Way",
+		"description" : "Unfortunately does not emit milk.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Wand",
+		"rarity" : "Rare",
+		"stats" : [
+			{
+				"baseValue": 10, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Wand04_a",
+		"itemName" : "Fire Rod",
+		"description" : "Proficient in fire magic.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Wand",
+		"rarity" : "Rare",
+		"stats" : [
+			{
+				"baseValue": 12, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Wand05",
+		"itemName" : "Crystal Scepter",
+		"description" : "Owned by Rylai.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Wand",
+		"rarity" : "Rare",
+		"stats" : [
+			{
+				"baseValue": 13, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Wand06",
+		"itemName" : "Branch of Yggdrassil",
+		"description" : "Name says it all.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Wand",
+		"rarity" : "Rare",
+		"stats" : [
+			{
+				"baseValue": 14, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Wand08",
+		"itemName" : "Twizzler",
+		"description" : "DO NOT EAT.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Wand",
+		"rarity" : "Rare",
+		"stats" : [
+			{
+				"baseValue": 15, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Wand09",
+		"itemName" : "Iron Star",
+		"description" : "Goblin engineered.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Wand",
+		"rarity" : "Epic",
+		"stats" : [
+			{
+				"baseValue": 17, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Wand10",
+		"itemName" : "Deathly Hallow",
+		"description" : "Page 658",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Wand",
+		"rarity" : "Epic",
+		"stats" : [
+			{
+				"baseValue": 20, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Wand07",
+		"itemName" : "Snaketail",
+		"description" : "A snake imbued with magic ability.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Wand",
+		"rarity" : "Legendary",
+		"stats" : [
+			{
+				"baseValue": 23, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+	{
+		"objectSlug": "Wand11",
+		"itemName" : "Death Note",
+		"description" : "Episode 25.",
+		"itemType" : "Weapon",
+		"actionName" : "Equip",
+		"itemModifier": 0,
+		"weaponType": "Wand",
+		"rarity" : "Legendary",
+		"stats" : [
+			{
+				"baseValue": 25, 
+				"statName": "Power", "statType": "Power"
+			}
+		]
+	},
+]

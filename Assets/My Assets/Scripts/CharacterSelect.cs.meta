@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: d3eb7f62402e79a49862ca320da3e5c8
+timeCreated: 1498748244
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Male: {fileID: 1216055444970834, guid: f582ba5407ea5ad489037a1b52610d52, type: 2}
+  - Female: {fileID: 1082065850532924, guid: f0ffada4c6a7b1b4780846b43ae9bfcd, type: 2}
+  - CSCamera: {instanceID: 0}
+  - PlayerCamera: {instanceID: 0}
+  - characterSelectPanel: {instanceID: 0}
+  - GenderText: {instanceID: 0}
+  - Player: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
